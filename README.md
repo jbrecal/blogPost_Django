@@ -1,6 +1,6 @@
 # Blog MVC con Django
 ## Python | Django | SQLite | HTML | CSS | Bootstrap
-Este es un proyecto de un blog desarrollado utilizando Django siguiendo el patrón Modelo-Vista-Controlador (MVC). La aplicación permite crear, gestionar y visualizar publicaciones de blog, así como ver una página de "Acerca de". El proyecto utiliza PostgreSQL para almacenar las publicaciones del blog. Este proyecto fue realizado como parte de un curso de Python.
+Este es un proyecto de un blog desarrollado utilizando Django siguiendo el patrón Modelo-Vista-Controlador (MVC). La aplicación permite crear, gestionar y visualizar publicaciones de blog, así como ver una página de "Acerca de". El proyecto utiliza PostgreSQL para almacenar las publicaciones del blog. **Este proyecto fue realizado como parte de un curso de Python**.
 
 **Características**
 
